@@ -1,2 +1,2 @@
 # ejemplo
-curso github
+curso github clase 1
